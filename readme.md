@@ -5,4 +5,4 @@
 
 ![alt text](./pictures/image.png)
 ![alt text](./pictures/image2.png)
-![alt text](image.png)
+![alt text](./pictures/image3.png)
